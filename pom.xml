@@ -7,7 +7,9 @@
    <groupId>com.devops.cb</groupId>
    <artifactId>contbuild</artifactId>
    <version>1.0</version>
-   <sourceDirectory>src</sourceDirectory>
+   <build>	
+   	<sourceDirectory>src</sourceDirectory>
+   </build>
    	<dependency>
 		<groupId>junit</groupId>
 		<artifactId>junit</artifactId>
