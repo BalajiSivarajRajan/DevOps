@@ -1,6 +1,6 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-public class TestJunit {
+public class unitTestCB {
    @Test
    public void testAdd() {
       String str= "Junit is working fine";
