@@ -3,7 +3,7 @@ public class cbHelloWorld {
         return "Hello world!";
     }
     public static void main(String[] args) {
-        HelloWorld helloWorldObject = new HelloWorld();
+        cbHelloWorld helloWorldObject = new cbHelloWorld();
         System.out.println(helloWorldObject.sayHello());
     }
 }
