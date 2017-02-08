@@ -1,7 +1,9 @@
 public class cbHelloWorld {
-   public static void main(String[] args) {
-      // Prints "Hello, World" in the terminal window.
-      System.out.println("Hello, World Continuous buid");
-      
-   }
+     public String sayHello() {
+        return "Hello world!";
+    }
+    public static void main(String[] args) {
+        HelloWorld helloWorldObject = new HelloWorld();
+        System.out.println(helloWorldObject.sayHello());
+    }
 }
