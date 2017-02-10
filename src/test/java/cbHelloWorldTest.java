@@ -9,7 +9,7 @@ public class cbHelloWorldTest {
 
 	@Test
 	public void utSrc() {
-		assertThat(cbHWObject.sayHello(), containsString("Hello-fail"));
+		assertThat(cbHWObject.sayHello(), containsString("Hello"));
 	}
 
 }
