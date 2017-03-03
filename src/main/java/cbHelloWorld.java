@@ -7,6 +7,6 @@ public class cbHelloWorld {
         System.out.println(helloWorldObject.sayHello());
         System.out.println(helloWorldObject.sayHello());
         System.out.println(helloWorldObject.sayHello());
-         rtertert
+       
     }
 }
