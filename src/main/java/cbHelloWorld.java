@@ -1,6 +1,6 @@
 public class cbHelloWorld {
      public String sayHello() {
-        return "Hello world -CI/CD  nexus !
+        return "Hello world -CI/CD  nexus !";
     }
     public static void main(String[] args) {
         cbHelloWorld helloWorldObject = new cbHelloWorld();
