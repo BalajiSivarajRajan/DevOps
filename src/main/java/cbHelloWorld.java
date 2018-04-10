@@ -6,7 +6,6 @@ public class cbHelloWorld {
         cbHelloWorld helloWorldObject = new cbHelloWorld();
         System.out.println(helloWorldObject.sayHello());
         System.out.println(helloWorldObject.sayHello());
-        System.out.println(helloWorldObject.sayHello());
        
     }
 }
