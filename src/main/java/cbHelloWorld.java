@@ -5,7 +5,6 @@ public class cbHelloWorld {
     public static void main(String[] args) {
         cbHelloWorld helloWorldObject = new cbHelloWorld();
         System.out.println(helloWorldObject.sayHello());
-        System.out.println(helloWorldObject.sayHello());
-       
+               
     }
 }
